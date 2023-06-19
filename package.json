@@ -1,7 +1,7 @@
 {
   "name": "pics.io-test",
   "version": "0.1.0",
-  "homepage": "https://localbox0.github.io/CurrencyConverter/",
+  "homepage": "https://localbox0.github.io/pics.io-test/",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.11.1",
